@@ -32,11 +32,11 @@
 
 **Languages**
 
-[![Languages](https://skillicons.dev/icons?i=python,go,typescript,js&theme=dark)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=python,go,typescript,js,bash&theme=dark)](https://skillicons.dev)
 
 **ML & Data Science**
 
-[![ML](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark)](https://skillicons.dev)
+[![ML](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,anaconda&theme=dark)](https://skillicons.dev)
 
 **LLMs & MLOps**
 
@@ -46,9 +46,11 @@
 
 [![Stack](https://skillicons.dev/icons?i=fastapi,nodejs,nextjs,react,tailwind&theme=dark)](https://skillicons.dev)
 
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge&logo=gradio&logoColor=white)
+
 **Infrastructure & DevOps**
 
-[![Infra](https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,githubactions&theme=dark)](https://skillicons.dev)
+[![Infra](https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,linux,vercel&theme=dark)](https://skillicons.dev)
 
 **Databases**
 
@@ -56,9 +58,9 @@
 
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge&logo=databricks&logoColor=white) ![Qdrant](https://img.shields.io/badge/Qdrant-FF4F64?style=for-the-badge&logo=qdrant&logoColor=white)
 
-**Monitoring & Visualization**
+**Tools & Monitoring**
 
-[![Monitoring](https://skillicons.dev/icons?i=prometheus,grafana&theme=dark)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,github,gitlab,githubactions,vscode,postman,prometheus,grafana,sentry&theme=dark)](https://skillicons.dev)
 
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Power Bi](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
