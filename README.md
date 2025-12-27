@@ -78,9 +78,6 @@
 
 *"Be so good they can't ignore you."* — Steve Martin
 
-💬 **Let's Connect!** Whether it's AI, data science, or debating F1 strategies — I'm always up for a good conversation. Feel free to reach out!
-
-[![](https://visitcount.itsvg.in/api?id=Pranav1011&icon=0&color=6)](https://visitcount.itsvg.in)
 
 </div>
 
