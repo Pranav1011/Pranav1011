@@ -72,19 +72,22 @@
 
 ---
 
-## 🏆 GitHub Trophies
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=Pranav1011&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
+---
+
+*"Be so good they can't ignore you."* — Steve Martin
+
+💬 **Let's Connect!** Whether it's AI, data science, or debating F1 strategies — I'm always up for a good conversation. Feel free to reach out!
+
+[![](https://visitcount.itsvg.in/api?id=Pranav1011&icon=0&color=6)](https://visitcount.itsvg.in)
 
 </div>
 
 ---
 
-<div align="center">
-
-*"The only way to do great work is to love what you do."* — Steve Jobs
+💬 **Let's Connect!** Whether it's AI, data science, or debating F1 strategies — I'm always up for a good conversation. Feel free to reach out!
 
 [![](https://visitcount.itsvg.in/api?id=Pranav1011&icon=0&color=6)](https://visitcount.itsvg.in)
 
