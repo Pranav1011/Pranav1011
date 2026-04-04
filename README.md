@@ -2,11 +2,11 @@
 
 # Hi, I'm Sai Pranav Krovvidi 👋
 
-### AI/ML Engineer • Data Scientist • RAG & LLM Specialist
+### Data Scientist • AI/ML Engineer • RAG & LLM Specialist
 
-**MS Data Analytics Engineering @ Northeastern University**
+**MS Data Analytics Engineering @ Northeastern University (Dec 2026)**
 
-*Building production AI systems that scale — from 40K+ docs/month automation to 5,000+ jobs/sec pipelines*
+*Building production ML systems — from recommendation engines processing 25M+ interactions to intelligent analytics pipelines*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-pranav-krovvidi/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:krovvidipranav3@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white)](https://spkportfolio.vercel.app/)
 
@@ -16,13 +16,17 @@
 
 ## 🚀 What I'm Up To
 
-🔭 **Currently:** Building production AI systems at GPT Integrators — automating 40K+ documents/month with GPT-4 and FastAPI
+🔭 **Currently:** MS Data Analytics Engineering @ Northeastern (Dec 2026) — building MLOps pipelines and shipping portfolio projects
 
-👯 **Collaborate with me on:** RAG pipelines, LLM applications, or data science projects that need to scale
+🛠️ **Recent work:** Entity resolution with XLM-RoBERTa + LoRA, production recommendation engine (25M+ interactions), F1 analytics agent (80+ tools)
 
-🌱 **Learning:** Advanced MLOps, Go for distributed systems, and production Kubernetes patterns
+👯 **Collaborate with me on:** RAG pipelines, LLM applications, or ML systems that need to scale
 
-⚡ **Fun fact:** Formula 1 fanatic 🏎️ — let's talk race strategy, tire compounds, or why your favorite driver should be Max
+🌱 **Learning:** Advanced MLOps, production ML monitoring, and experiment tracking
+
+💼 **Open to:** Full-time Data Scientist / ML Engineer roles (Summer 2026, H-1B eligible)
+
+⚡ **Fun fact:** Formula 1 fanatic 🏎️ — built an AI agent with 80+ tools just to analyze race strategy
 
 ---
 
