@@ -2,31 +2,32 @@
 
 # Hi, I'm Sai Pranav Krovvidi 👋
 
-### Data Scientist • AI/ML Engineer • RAG & LLM Specialist
+### AI Engineer • Agentic systems, guardrails & evals
 
 **MS Data Analytics Engineering @ Northeastern University (Dec 2026)**
 
-*Building production ML systems — from recommendation engines processing 25M+ interactions to intelligent analytics pipelines*
+*I build AI agents that take real actions, and the tests that show when they fail.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-pranav-krovvidi/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:krovvidipranav3@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white)](https://spkportfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-pranav1011.github.io-00566E)](https://pranav1011.github.io) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-pranav-krovvidi/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:krovvidipranav3@gmail.com)
 
 </div>
 
 ---
 
-## 🚀 What I'm Up To
+## 🔧 Featured work
 
-🔭 **Currently:** MS Data Analytics Engineering @ Northeastern (Dec 2026) — building MLOps pipelines and shipping portfolio projects
+**[Aurora — Customer Operations Agent](https://github.com/Pranav1011/customer-ops-agent)** · [case study](https://pranav1011.github.io/work/aurora/)
+A LangGraph agent that issues refunds and cancels orders, with every action checked against a deterministic policy engine first. 0 forbidden actions across 46 test tickets on a scripted model; on Llama 3.1 8B it handled 2–3 of 8 tickets per run and took 0 forbidden actions in 40 runs, after repeated runs exposed a refund-retry gap that I closed.
 
-🛠️ **Recent work:** Entity resolution with XLM-RoBERTa + LoRA, production recommendation engine (25M+ interactions), F1 analytics agent (80+ tools)
+**[F1 Race Intelligence Agent](https://github.com/Pranav1011/F1-Race-Intelligence-Agent)** · [case study](https://pranav1011.github.io/work/f1-ria/)
+Plain-English questions over seven seasons of F1 data (TimescaleDB, Neo4j, Qdrant). Consolidated 79 tools into 8 and cut tool definitions 85% (13,487 → 2,014 tokens); a coverage test confirms all 79 capabilities still work.
 
-👯 **Collaborate with me on:** RAG pipelines, LLM applications, or ML systems that need to scale
+**[PitWall](https://github.com/Pranav1011/pitwall)** · [case study](https://pranav1011.github.io/work/pitwall/)
+A statistical model of F1 tyre wear, used to simulate pit-stop strategies. On races it never saw, its lap-time predictions had 23% less error than a track-aware baseline (1.31 vs 1.71 s per lap).
 
-🌱 **Learning:** Advanced MLOps, production ML monitoring, and experiment tracking
+More at **[pranav1011.github.io](https://pranav1011.github.io)**.
 
-💼 **Open to:** Full-time Data Scientist / ML Engineer roles (Summer 2026, H-1B eligible)
-
-⚡ **Fun fact:** Formula 1 fanatic 🏎️ — built an AI agent with 80+ tools just to analyze race strategy
+⚡ **Fun fact:** Formula 1 fanatic 🏎️ — hence two of the three projects above.
 
 ---
 
@@ -54,7 +55,7 @@
 
 **Infrastructure & DevOps**
 
-[![Infra](https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,linux,vercel&theme=dark)](https://skillicons.dev)
+[![Infra](https://skillicons.dev/icons?i=aws,gcp,docker,linux&theme=dark)](https://skillicons.dev)
 
 **Databases**
 
@@ -64,7 +65,7 @@
 
 **Tools & Monitoring**
 
-[![Tools](https://skillicons.dev/icons?i=git,github,gitlab,githubactions,vscode,postman,prometheus,grafana,sentry&theme=dark)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,github,githubactions,vscode,postman&theme=dark)](https://skillicons.dev)
 
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Power Bi](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
