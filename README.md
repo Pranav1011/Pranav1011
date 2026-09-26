@@ -2,11 +2,11 @@
 
 # Hi, I'm Sai Pranav Krovvidi 👋
 
-### AI Engineer • Agentic systems, guardrails & evals
+### AI Engineer • LLM agents, retrieval, ML systems
 
 **MS Data Analytics Engineering @ Northeastern University (Dec 2026)**
 
-*I build AI agents that take real actions, and the tests that show when they fail.*
+*I build AI agents that hold up in the real world: support desks, race strategy, enterprise documents.*
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-pranav1011.github.io-00566E)](https://pranav1011.github.io) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-pranav-krovvidi/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:krovvidipranav3@gmail.com)
 
